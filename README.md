@@ -1,4 +1,4 @@
-[header](assets/header.png)
+![header](header.png)
 
 # Title Lorem Ipsum
 ## Overview
