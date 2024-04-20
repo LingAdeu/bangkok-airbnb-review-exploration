@@ -18,7 +18,7 @@ My analysis consists of five sections in which each of them is presented as foll
 ## Folder Organization
 
     .
-    ├── README.md                          <- The top-level README for data analysts using this project.
+    ├── README.md                          <- The top-level README for using this project.
     ├── data
     │   ├── data-dictionary.pdf            <- Metadata (information about the data)
     │   ├── airbnb-listings-bangkok.csv    <- Dataset
