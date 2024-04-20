@@ -8,6 +8,7 @@ Despite increasing number of reviews, approximately 36% (or 5.7 thousands) of Ai
 The data used for this analysis can be accesseed in folder data. The dataset includes information on AirBnB listings in Bangkok such as locations, owners, pricing, and propeerty types.
 
 ## Contents
+My analysis consists of five sections in which each of them is presented as follows:
 1. <b>Introduction</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 2. <b>Initial Data Inspection</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 3. <b>Data Preparation</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -44,7 +45,7 @@ If your have suggestions for improvements, feel free to reach me out here:
 <a href="https://www.linkedin.com/in/adelia-januarto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  
-  <a href="mailto:januartoadelia@gmail.com" target="_blank">
+<br>
+<a href="mailto:januartoadelia@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52" height="40" alt="gmail logo"/>
   </a>
