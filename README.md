@@ -5,7 +5,7 @@
 Despite increasing number of reviews, approximately 36% (or 5.7 thousands) of Airbnb listings in Bangkok have not received any reviews according to their records between 2012 and 2022. This project explores potential factors contributing to the lack of reviews in certain listings in the capital city of Thailand. A comparative analysis was carried out to address this challenge and offer several actionable recommendations to the Host Engagement Manager at Airbnb Thailand.
 
 ## Data Source
-The data used for this analysis can be accesseed in folder data. The dataset includes information on AirBnB listings in Bangkok such as locations, owners, pricing, and propeerty types.
+The dataset used for this analysis can be accesseed in folder data. The dataset includes information on Airbnb listings in Bangkok such as locations, owners, pricing, and propeerty types. This analysis also leveraged geospatial data from Poom Wettayakorn's GitHub [repository](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson)
 
 ## Contents
 My analysis consists of five sections in which each of them is presented as follows:
