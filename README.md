@@ -42,7 +42,7 @@ pip install altair==5.2.0 folium==0.16.0 geopandas==0.14.3 matplotlib==3.8.3 num
 
 ## Tableau Public URL
 
-> [!IMPORTANT] 
+> [!important] Info 
 > This project also includes data visualization in Tableau for audience with a wider range of backgrounds. The Tableau story can be accessed [here](www.google.com).
 
 ## Feedback
