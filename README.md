@@ -24,7 +24,7 @@ My analysis consists of five sections in which each of them is presented as foll
     │   ├── airbnb-listings-bangkok.csv    <- Dataset
     │   └── bangkok-districts.geojson      <- Geospatial data for Bangkok, Thailand borders
     ├── docs
-    │   └── Requirements.txt               <- The requirements file for reproducing the environment. 
+    │   └── requirements.txt               <- The requirements file for reproducing the environment. 
     │                                         Generated using `pip freeze > requirements.txt`
     └── src                                <- Source codes
         └── script.ipynb                   <- Data analysis in a Jupyter notebook file
