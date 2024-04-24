@@ -42,7 +42,7 @@ git clone https://github.com/LingAdeu/bangkok-airbnb-review-exploration.git
 2. Ensure that all necessary dependencies are installed, especially Python and Jupyter Notebook. Other than these, all libraries are specified on file requirements.txt which can be executed by running the following script on the terminal.
 
 ```bash
-pip install altair==5.2.0 folium==0.16.0 geopandas==0.14.3 matplotlib==3.8.3 numpy==1.24.4 pandas==2.2.1 scipy==1.11.4 seaborn==0.11.0
+pip install altair==5.2.0 folium==0.16.0 geopandas==0.14.3 matplotlib==3.8.3 nltk==3.8.1 numpy==1.24.4 pandas==2.2.1 regex==2023.12.25 scipy==1.11.4 seaborn==0.11.0
 
 ```
 3. Run my Jupyter Notebook file (`*.ipynb`) in src folder to reproduce the analysis.
