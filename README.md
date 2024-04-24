@@ -37,7 +37,7 @@ My analysis consists of five sections in which each of them is presented as foll
 To replicate my analysis or explore the data further, kindly follow the following steps:
 1. Clone this repository to your local machine.
 ```bash
-    git clone https://github.com/LingAdeu/bangkok-airbnb-review-exploration.git
+git clone https://github.com/LingAdeu/bangkok-airbnb-review-exploration.git
 ```
 2. Ensure that all necessary dependencies are installed, especially Python and Jupyter Notebook. Other than these, all libraries are specified on file requirements.txt which can be executed by running the following script on the terminal.
 
