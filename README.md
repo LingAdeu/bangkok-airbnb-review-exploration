@@ -2,10 +2,14 @@
 
 # Improving the Number of Review: Exploring Review Patterns in Bangkok's Airbnb Landscape
 ## Overview
-Despite the increasing number of reviews, approximately 36% (or 5.7 thousand) of Airbnb listings in Bangkok have not received any reviews according to their records between 2012 and 2022. This project investigates potential factors contributing to the lack of reviews in certain listings in the capital city of Thailand. A comparative analysis was carried out to address this challenge and offer several actionable recommendations to the Host Engagement Manager at Airbnb Thailand.
+Despite the increasing number of reviews, approximately 36% (or 5.7 thousand) of Airbnb listings in Bangkok have not received any reviews according to their records between 2012 and 2022. This project investigates potential factors contributing to the lack of reviews in certain listings in the capital city of Thailand. A comparative analysis was carried out to address this challenge and offer several actionable recommendations to the Host Engagement Manager at Airbnb Thailand. 
+
+The analysis suggest that unreviewed Airbnb listings in Bangkok tend to have higher prices and longer minimum stay requirements compared to reviewed ones, potentially discouraging guests from booking and leaving reviews. Reviewed listings, often entire homes or apartments, experience higher booking rates and are concentrated in central areas with ample public facilities. Additionally, listings closer to popular neighborhoods receive more reviews over time.
+
+Based on the findings, we can offer several actionable recommendations to address the lack of reviews for unreviewed listings such as consider adjusting prices to be more competitive and revising minimum stay requirements, particularly for shared rooms; implementing promotional campaigns to incentivize guests to book and review unreviewed listings, and focusing marketing efforts on highlighting unique features and nearby attractions in less central neighborhoods.
 
 ## Data Source
-The dataset used for this analysis is available in the '[data](https://github.com/LingAdeu/bangkok-airbnb-review-exploration/tree/main/data)' folder. The dataset includes information on Airbnb listings in Bangkok such as locations, owners, pricing, and propeerty types. This analysis also leveraged geospatial data from Poom Wettayakorn's GitHub [repository](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson).
+The dataset used for this analysis is available in the [data](https://github.com/LingAdeu/bangkok-airbnb-review-exploration/tree/main/data) folder. The dataset includes information on Airbnb listings in Bangkok such as locations, owners, pricing, and propeerty types. This analysis also leveraged geospatial data from Poom Wettayakorn's GitHub [repository](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson).
 
 ## Contents
 My analysis consists of five sections in which each of them is presented as follows:
@@ -32,6 +36,9 @@ My analysis consists of five sections in which each of them is presented as foll
 ## Usage
 To replicate my analysis or explore the data further, kindly follow the following steps:
 1. Clone this repository to your local machine.
+
+    git clone https://github.com/LingAdeu/bangkok-airbnb-review-exploration.git
+
 2. Ensure that all necessary dependencies are installed, especially Python and Jupyter Notebook. Other than these, all libraries are specified on file requirements.txt which can be executed by running the following script on the terminal.
 
 ```bash
