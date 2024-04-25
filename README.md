@@ -49,10 +49,10 @@ pip install altair==5.2.0 folium==0.16.0 geopandas==0.14.3 matplotlib==3.8.3 nlt
 ```
 3. Run my Jupyter Notebook file (`*.ipynb`) in src folder to reproduce the analysis.
 
-## Tableau Public URL
+## Jupyter Notebook and Tableau Public URL
 
 > [!important] 
-> This project also includes data visualization in Tableau for audience with a wider range of backgrounds. The Tableau dashboard can be accessed [here](https://public.tableau.com/shared/TWSRBZMHC?:display_count=n&:origin=viz_share_link).
+> Due to the current limitation of GitHub, data visualization generated using Altair is unable to displayed right on the repository. To read the Jupyter Notebook along with the data visualization outputs, please use this [link](https://nbviewer.org/github/LingAdeu/bangkok-airbnb-review-exploration/blob/main/src/notebook.ipynb). Additionallt, this project also includes data visualization in Tableau for audience with a wider range of backgrounds. The Tableau dashboard can be accessed [here](https://public.tableau.com/shared/TWSRBZMHC?:display_count=n&:origin=viz_share_link). 
 
 ## Feedback
 If you have suggestions for improvements, feel free to contact me here:
