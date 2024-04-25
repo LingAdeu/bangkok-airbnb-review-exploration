@@ -8,7 +8,7 @@ The analysis suggest that unreviewed Airbnb listings in Bangkok tend to have hig
 
 Based on the findings, we can offer several actionable recommendations to address the lack of reviews for unreviewed listings such as consider adjusting prices to be more competitive and revising minimum stay requirements, particularly for shared rooms; implementing promotional campaigns to incentivize guests to book and review unreviewed listings, and focusing marketing efforts on highlighting unique features and nearby attractions in less central neighborhoods.
 
-## Data
+## Datasets
 The dataset used for this analysis is available in the [data](https://github.com/LingAdeu/bangkok-airbnb-review-exploration/tree/main/data) folder. The dataset includes information on Airbnb listings in Bangkok such as locations, owners, pricing, and propeerty types. This analysis also leveraged geospatial data from Poom Wettayakorn's GitHub [repository](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson).
 
 ## Contents
