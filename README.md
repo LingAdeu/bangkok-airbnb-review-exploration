@@ -22,16 +22,18 @@ My analysis consists of five sections in which each of them is presented as foll
 ## Folder Organization
 
     .
-    ├── README.md                          <- The top-level README for using this project.
-    ├── data
-    │   ├── data-dictionary.pdf            <- Metadata (information about the data)
-    │   ├── airbnb-listings-bangkok.csv    <- Dataset
-    │   └── bangkok-districts.geojson      <- Geospatial data for Bangkok, Thailand borders
+    ├── README.md                           <- The top-level README for using this project.
+    ├── data 
+    │   ├── airbnb-listings-bangkok.csv     <- Dataset
+    │   ├── bangkok-districts.geojson       <- Geospatial data for Bangkok, Thailand borders
+    │   └── data-dictionary.pdf             <- Metadata (information about the data)
     ├── docs
-    │   └── requirements.txt               <- The requirements file for reproducing the environment. 
-    │                                         Generated using `pip freeze > requirements.txt`
-    └── src                                <- Source codes
-        └── script.ipynb                   <- Data analysis in a Jupyter notebook file
+    │   └── worksheet.twb
+    ├── requirements.txt                    <- The requirements file for reproducing the environment.
+    │                                          Generated using `pip freeze > requirements.txt`
+    └── src
+        └── notebook.ipynb                  <- Data analysis in a Jupyter notebook file
+
 
 ## Usage
 To replicate my analysis or explore the data further, kindly follow the following steps:
