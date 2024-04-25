@@ -1,9 +1,9 @@
-exclude
-assets
 .DS_Store
 data/CleanDataFrame.csv
+data/word_counts.csv
 src/.DS_Store
 src/.ipynb_checkpoints/
 docs/worksheet.twb
 docs/.~worksheet__3421.twbr
 docs/.~worksheet__2718.twbr
+docs/.~worksheet__2255.twbr
