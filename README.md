@@ -1,7 +1,7 @@
 ![header](header.png)
 
 # Improving the Number of Review: Exploring Review Patterns in Bangkok's Airbnb Landscape
-## Abstract
+## Summary
 Despite the increasing number of reviews, approximately 36% (or 5.7 thousand) of Airbnb listings in Bangkok have not received any reviews according to their records between 2012 and 2022. This project investigates potential factors contributing to the lack of reviews in certain listings in the capital city of Thailand. A comparative analysis was carried out to address this challenge and offer several actionable recommendations to the Host Engagement Manager at Airbnb Thailand. 
 
 The analysis suggest that unreviewed Airbnb listings in Bangkok tend to have higher prices and longer minimum stay requirements compared to reviewed ones, potentially discouraging guests from booking and leaving reviews. Reviewed listings, often entire homes or apartments, experience higher booking rates and are concentrated in central areas with ample public facilities. Additionally, listings closer to popular neighborhoods receive more reviews over time.
